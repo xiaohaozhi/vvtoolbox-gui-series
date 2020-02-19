@@ -1,6 +1,7 @@
 # vvtoolbox gui series
 
 本软件是一款用于m3u8下载（支持AES解密、优酷普通DRM解密）、视频解析（后续增加）的工具，同时集成部分有关于vvtoolbox相关的功能，如下载视频弹幕（后续...）等。
+![主界面截图](http://puui.qpic.cn/vshpic/0/qSVJ3paiJ1JDeLJ5z5oPysIIVz_k6HBtTDryZe-bgkepe3eV_0/0)
 
 # 使用方式
 
